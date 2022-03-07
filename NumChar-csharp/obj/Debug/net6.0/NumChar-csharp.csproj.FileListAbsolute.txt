@@ -1,0 +1,15 @@
+C:\Users\Matia\OneDrive\IIN\6to semestre\Estructura de los Lenguajes\Actividad 2\NumChar-csharp\bin\Debug\net6.0\NumChar-csharp.exe
+C:\Users\Matia\OneDrive\IIN\6to semestre\Estructura de los Lenguajes\Actividad 2\NumChar-csharp\bin\Debug\net6.0\NumChar-csharp.deps.json
+C:\Users\Matia\OneDrive\IIN\6to semestre\Estructura de los Lenguajes\Actividad 2\NumChar-csharp\bin\Debug\net6.0\NumChar-csharp.runtimeconfig.json
+C:\Users\Matia\OneDrive\IIN\6to semestre\Estructura de los Lenguajes\Actividad 2\NumChar-csharp\bin\Debug\net6.0\NumChar-csharp.dll
+C:\Users\Matia\OneDrive\IIN\6to semestre\Estructura de los Lenguajes\Actividad 2\NumChar-csharp\bin\Debug\net6.0\NumChar-csharp.pdb
+C:\Users\Matia\OneDrive\IIN\6to semestre\Estructura de los Lenguajes\Actividad 2\NumChar-csharp\obj\Debug\net6.0\NumChar-csharp.csproj.AssemblyReference.cache
+C:\Users\Matia\OneDrive\IIN\6to semestre\Estructura de los Lenguajes\Actividad 2\NumChar-csharp\obj\Debug\net6.0\NumChar-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matia\OneDrive\IIN\6to semestre\Estructura de los Lenguajes\Actividad 2\NumChar-csharp\obj\Debug\net6.0\NumChar-csharp.AssemblyInfoInputs.cache
+C:\Users\Matia\OneDrive\IIN\6to semestre\Estructura de los Lenguajes\Actividad 2\NumChar-csharp\obj\Debug\net6.0\NumChar-csharp.AssemblyInfo.cs
+C:\Users\Matia\OneDrive\IIN\6to semestre\Estructura de los Lenguajes\Actividad 2\NumChar-csharp\obj\Debug\net6.0\NumChar-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Matia\OneDrive\IIN\6to semestre\Estructura de los Lenguajes\Actividad 2\NumChar-csharp\obj\Debug\net6.0\NumChar-csharp.dll
+C:\Users\Matia\OneDrive\IIN\6to semestre\Estructura de los Lenguajes\Actividad 2\NumChar-csharp\obj\Debug\net6.0\refint\NumChar-csharp.dll
+C:\Users\Matia\OneDrive\IIN\6to semestre\Estructura de los Lenguajes\Actividad 2\NumChar-csharp\obj\Debug\net6.0\NumChar-csharp.pdb
+C:\Users\Matia\OneDrive\IIN\6to semestre\Estructura de los Lenguajes\Actividad 2\NumChar-csharp\obj\Debug\net6.0\NumChar-csharp.genruntimeconfig.cache
+C:\Users\Matia\OneDrive\IIN\6to semestre\Estructura de los Lenguajes\Actividad 2\NumChar-csharp\obj\Debug\net6.0\ref\NumChar-csharp.dll

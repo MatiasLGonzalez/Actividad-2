@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NumChar-csharp/1.0.0": {
+        "runtime": {
+          "NumChar-csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumChar-csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
